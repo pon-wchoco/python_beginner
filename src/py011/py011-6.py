@@ -22,7 +22,7 @@ def main():
     kansu()
 
     print(hensu_main)
-    # 以下はスコープ外のように見えるが、使えてしまう
+    # 以下は他スコープの内側の変数の様に見えるが、使えてしまう
     print(hensu_loop)
     print(hensu_bunki)
 
