@@ -1,12 +1,11 @@
 # コマンドプロンプトで以下を実行する
 # pip install pandas
-# プログラマはタイプ数の省略をしたがる
-import pandas as pd
+import pandas
 
 
 def main():
     # Pandasのモジュールが使える！
-    s1 = pd.Series([1, 2, 3, 5])
+    s1 = pandas.Series([1, 2, 3, 5])
 
 
 if __name__ == "__main__":
