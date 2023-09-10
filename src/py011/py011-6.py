@@ -25,6 +25,7 @@ def main():
     # 以下は他スコープの内側の変数の様に見えるが、使えてしまう
     print(hensu_loop)
     print(hensu_bunki)
+    print(hensu_main)
 
 
 if __name__ == "__main__":
