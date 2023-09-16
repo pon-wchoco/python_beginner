@@ -1,9 +1,12 @@
-from math import pi
+import mylib1
+import mylib.mylib2
 
 
 def main():
-    # 数学の円周率πの定数
-    print(pi)
+    mylib1.mylib1_kansu1()
+    mylib1.mylib1_kansu2()
+    mylib.mylib2.mylib2_kansu1()
+    mylib.mylib2.mylib2_kansu1()
 
 
 if __name__ == "__main__":
