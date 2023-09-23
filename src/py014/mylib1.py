@@ -3,6 +3,10 @@ def raise_exception(i):
     # 引数はint型だけを期待している
     code = int(i)
 
+    if code == 0:
+        print("正常終了！！")
+        return
+
     if code == 1:
         ## よくあるエラーが発生するパターン
         ## 配列に存在しない要素番号をつかってしまった
