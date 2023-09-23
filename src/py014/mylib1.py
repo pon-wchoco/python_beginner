@@ -1,6 +1,8 @@
 # ライブラリ１のモジュール１
 def raise_exception(i):
+    # 引数はint型だけを期待している
     code = int(i)
+
     if code == 1:
         ## よくあるエラーが発生するパターン
         ## 配列に存在しない要素番号をつかってしまった
@@ -11,15 +13,4 @@ def raise_exception(i):
         ## ゼロで割り算してしまった
         1 / 0
 
-    if code == 3:
-        ## 自分で例外を発生させてみる
-        print("これから自分で例外を発生させるよ")
-
-        raise OriginalException("自分で例外発生させて、自分でメッセージを設定できるよ")
-
-    raise Exception("引数に指定した番号がおかしいです。1-3の数字を指定して下さい。")
-
-
-class OriginalException(Exception):
-    # 独自の例外クラスの定義
-    ...
+    raise ValueError("引数に指定した番号がおかしいです。1-2の数字を指定して下さい。")

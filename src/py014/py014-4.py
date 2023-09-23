@@ -3,7 +3,7 @@ import mylib1
 
 def main():
     # 例外を具体的にハンドリングしてみる
-    ## codeを1,2,3,4と変更して動作させてみる
+    # except 例外クラス as e:
     code = 1
 
     try:

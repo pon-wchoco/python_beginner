@@ -2,16 +2,14 @@ import mylib1
 
 
 def main():
-    # 例外をハンドリングしたうえで絶対やりたいことをやる
-    ## codeを1,2,3,4と変更して動作させてみる
-    code = 1
+    # 自分の例外型(クラス)を作ってみる
+    code = 3
 
     try:
         mylib1.raise_exception(code)
-    except IndexError as e:
-        print("IndexErrorだけをハンドリングしたよ")
-    finally:
-        print("例外が起こっても起こらなくてもやりたいことを書くところ")
+    except mylib1.OriginalException as e:
+        print("自作の例外クラスだけをハンドリングしたよ")
+        raise e
 
     print("処理が終わりました")
 
