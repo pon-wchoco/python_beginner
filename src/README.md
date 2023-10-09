@@ -1,7 +1,7 @@
 ## 入門書で詰まったらヒントがあるかも
 
-【Python超初心者 #000】Python環境構築
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LcjyCp5LokE?si=BJ3lC1lrwOPWAnV3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[【Python超初心者 #000】Python環境構築](https://youtu.be/LcjyCp5LokE?si=OBYgte-hLjnRpJuZ)
+
 
 【Python超初心者 #001】Python実行方法
 
