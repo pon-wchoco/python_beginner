@@ -1,6 +1,6 @@
 ## 入門書で詰まったらヒントがあるかも
 
-[【Python超初心者 #000】Python環境構築](https://youtu.be/LcjyCp5LokE?si=OBYgte-hLjnRpJuZ)
+[![【Python超初心者 #000】Python環境構築](http://img.youtube.com/vi/LcjyCp5LokE/0.jpg)](https://youtu.be/LcjyCp5LokE?si=OBYgte-hLjnRpJuZ)
 
 
 【Python超初心者 #001】Python実行方法
