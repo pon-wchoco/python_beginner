@@ -1,14 +1,17 @@
 ## 入門書で詰まったらヒントがあるかも
-【Python超初心者 #000】Python環境構築
+* 【Python超初心者 #000】Python環境構築
+
 [![【Python超初心者 #000】Python環境構築](http://img.youtube.com/vi/LcjyCp5LokE/0.jpg)](https://www.youtube.com/watch?v=LcjyCp5LokE)
 
-【Python超初心者 #001】Python実行方法
+* 【Python超初心者 #001】Python実行方法
+
 [![ ](http://img.youtube.com/vi/4NuQP-ICLgA/0.jpg)](https://www.youtube.com/watch?v=4NuQP-ICLgA)
 
-【Python超初心者 #002】Python専用エディターインストール
+* 【Python超初心者 #002】Python専用エディターインストール
+
 [![ ](http://img.youtube.com/vi/y06yurgl2uw/0.jpg)](https://www.youtube.com/watch?v=y06yurgl2uw)
 
-【Python超初心者 #003】プラグインをいれる！
+* 【Python超初心者 #003】プラグインをいれる！
 [![ ](http://img.youtube.com/vi/2H9oHBpO4AY/0.jpg)](https://www.youtube.com/watch?v=2H9oHBpO4AY)
 
 【Python超初心者 #004】フォーマッターとは！
