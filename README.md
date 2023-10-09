@@ -1,7 +1,5 @@
 # python_beginner
 
-Youtube動画の教材です。
-https://youtube.com/playlist?list=PLXGJwp4_DYm8YwXNc_XHaiAzyVD3JAYck
 
 ## 目的
 
@@ -25,3 +23,7 @@ macは持っていないのですみませんｗ
 #python
 
 https://w-choco.fun/python_beginner_000/
+
+### 入門書に息詰まる前に
+Youtube動画の教材です。
+https://youtube.com/playlist?list=PLXGJwp4_DYm8YwXNc_XHaiAzyVD3JAYck
