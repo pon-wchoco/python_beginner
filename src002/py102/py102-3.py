@@ -3,15 +3,16 @@ import os
 
 def main():
     # 書き込むファイルのパス
-    path = os.path.dirname(__file__) + "\writelines.txt"
+    path = os.path.dirname(__file__) + "\writelines.csv"
 
     mojicode = "utf-8"
 
     mode = "a"
 
     with open(file=path, encoding=mojicode, mode=mode) as f:
-        # 改行は \n
-        lines = ["おはよう\n", "こんにちは\n", "こんばんは\n"]
+        # タブは \t
+        lines = ["aaa,bbb,ccc\n", "ddd,eee,fff\n", "ggg,hhh,iii\n"]
+        # lines = ["aaa\tbbb\tccc\n", "ddd\teee\tfff\n", "ggg\thhh\tiii\n"]
         f.writelines(lines)
 
 
