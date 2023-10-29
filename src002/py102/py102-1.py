@@ -5,8 +5,8 @@ def main():
     # 書き込むファイルのパス
     path = os.path.dirname(__file__) + "\write.txt"
 
-    # mojicode = "utf-8"
-    mojicode = "shift_jis"
+    mojicode = "utf-8"
+    # mojicode = "shift_jis"
 
     # "a" : 追記モード
     # "w" : 上書きモード
@@ -15,7 +15,7 @@ def main():
 
     with open(file=path, encoding=mojicode, mode=mode) as f:
         # 改行は \n
-        f.write("こんにちは")
+        f.write("こんばんは")
 
 
 if __name__ == "__main__":
